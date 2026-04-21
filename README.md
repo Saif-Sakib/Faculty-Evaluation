@@ -1,4 +1,4 @@
-# Faculty Evaluation - Windows Step by Step Guide
+# Faculty Evaluation - Step by Step Guide
 
 This guide is for Windows users.
 
